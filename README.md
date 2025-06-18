@@ -33,14 +33,20 @@ PixelMorph/
 ▶️ Automatically install all dependencies using the command:
 pip install -r requirements.txt
 
+
 ▶️ Run the program using the command:
 python main.py
 
+
 📊 Output:
     ✅ Original image shown
+
     🔐 Encrypted (scrambled) image
+
     🔓 Decrypted (original restored)
+    
     📈 RGB histogram for all stages
+    
     📉 Correlation stats table
 
 📊 Output images:
