@@ -99,7 +99,7 @@ Additional inspiration and theoretical foundations from:
 
 🙌 Let's Connect
 
-  📬 dasit.tanisha@gmail.com
+  📬 Email: dasit.tanisha@gmail.com
   
   🌐 Linkedin: www.linkedin.com/in/tanishajdas
 
