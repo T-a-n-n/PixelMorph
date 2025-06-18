@@ -3,7 +3,7 @@
 ## 🔒 Overview
 PixelMorph is a secure image encryption and decryption system that combines **Chaotic maps** with **Genetic Crossover** operations to protect images in real-time. It breaks pixel correlation, scrambles structure, and maintains fidelity after decryption — making it ideal for sensitive applications like medical imaging and defense.
 
-Core Concepts
+Core Concepts:
 - **Chaotic Maps:**
   - 📈 Logistic Map
   - 🌀 Henon Map
@@ -20,8 +20,11 @@ Core Concepts
 PixelMorph/
 
 ├── main.py # Full encryption & decryption logic
+
 ├── requirements.txt # All Python dependencies
+
 ├── sample.jpg # Test image (you can replace with your own)
+
 └── README.md # Current file
 
 💻 How to Run
@@ -41,13 +44,6 @@ PixelMorph/
 
 
 📊 Output:
-    ✅ Original image shown
-    🔐 Encrypted (scrambled) image
-    🔓 Decrypted (original restored)
-    📈 RGB histogram for all stages
-    📉 Correlation stats table
-
-📊 Output images:
 
 Original Image:
 
