@@ -64,6 +64,19 @@ Decrypted Image:
 ![Screenshot 2025-06-18 214812](https://github.com/user-attachments/assets/cdd2144c-6752-4870-897e-cc85dfe54c50)
 
 
+Histogram of Original Image:
+
+![Screenshot 2025-06-18 220509](https://github.com/user-attachments/assets/e5ecbf1b-6ad5-400a-a5be-3510f1b42510)
+
+Histogram of Encrypted Image:
+
+![Screenshot 2025-06-18 220521](https://github.com/user-attachments/assets/6fd81156-a2c1-41a0-a18b-1e98e746f024)
+
+Histogram of Decrypted Image:
+
+![Screenshot 2025-06-18 220532](https://github.com/user-attachments/assets/9e3a3a46-ddc2-407c-9007-c14e2dac4c93)
+
+
 ## 📚 Research Reference
 This project is primarily based on:
 **Sudeep Nooly B, Ravindra S**  
@@ -78,10 +91,12 @@ Additional inspiration and theoretical foundations from:
 - **N. Pareek et al. (2006)** – *Image encryption using chaotic logistic maps*
 - **Liu & Wang (2011)** – *Color image encryption using one-time keys and chaotic maps*
 
+
 🧩 Future Enhancements
     Add mutation (genetic operator)
     Support for grayscale/video encryption
     Cloud/web-based encryption service
+
 
 🙌 Let's Connect
     📬 dasit.tanisha@gmail.com
