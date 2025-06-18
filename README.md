@@ -31,32 +31,38 @@ PixelMorph/
 3. Install dependencies:
 
 ▶️ Automatically install all dependencies using the command:
-pip install -r requirements.txt
+    
+    pip install -r requirements.txt
 
 
 ▶️ Run the program using the command:
-python main.py
+
+    python main.py
 
 
 📊 Output:
     ✅ Original image shown
-
     🔐 Encrypted (scrambled) image
-
     🔓 Decrypted (original restored)
-    
     📈 RGB histogram for all stages
-    
     📉 Correlation stats table
 
 📊 Output images:
 
 Original Image:
+
 ![Screenshot 2025-06-18 214336](https://github.com/user-attachments/assets/6d914d0f-6ab6-4373-aac4-a7be694b751a)
+
+
 Encrypted Image:
+
 ![Screenshot 2025-06-18 214400](https://github.com/user-attachments/assets/ac2511ae-f78f-4b32-82d8-9141cd9e93f6)
+
+
 Decrypted Image:
+
 ![Screenshot 2025-06-18 214812](https://github.com/user-attachments/assets/cdd2144c-6752-4870-897e-cc85dfe54c50)
+
 
 ## 📚 Research Reference
 This project is primarily based on:
