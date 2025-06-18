@@ -88,15 +88,17 @@ Additional inspiration and theoretical foundations from:
 - **Liu & Wang (2011)** – *Color image encryption using one-time keys and chaotic maps*
 
 
-🧩 Future Enhancements
-    Add mutation (genetic operator)
-    Support for grayscale/video encryption
-    Cloud/web-based encryption service
+🧩 Future Enhancements:
+
+   Add mutation (genetic operator)
+   Support for grayscale/video encryption
+   Cloud/web-based encryption service
 
 
 🙌 Let's Connect
-    📬 dasit.tanisha@gmail.com
-    🌐 Linkedin: www.linkedin.com/in/tanishajdas
+
+  📬 dasit.tanisha@gmail.com
+  🌐 Linkedin: www.linkedin.com/in/tanishajdas
 
 
 
