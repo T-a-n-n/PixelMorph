@@ -91,13 +91,16 @@ Additional inspiration and theoretical foundations from:
 🧩 Future Enhancements:
 
    Add mutation (genetic operator)
+  
    Support for grayscale/video encryption
+   
    Cloud/web-based encryption service
 
 
 🙌 Let's Connect
 
   📬 dasit.tanisha@gmail.com
+  
   🌐 Linkedin: www.linkedin.com/in/tanishajdas
 
 
