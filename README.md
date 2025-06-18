@@ -26,11 +26,11 @@ PixelMorph/
 
 💻 How to Run
 
-1. 🐍 **Install Python** (v3.8+)
-2. 📁 Place your image as `sampleimage.jpg` in the same folder
-3. 📦 Install dependencies:
+1. **Install Python** (v3.8+)
+2. Place your image as `sampleimage.jpg` in the same folder
+3. Install dependencies:
 
-```bash
+▶️ Automatically install all dependencies using the command:
 pip install -r requirements.txt
 
 ▶️ Run the program using the command:
